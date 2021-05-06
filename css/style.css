@@ -1,0 +1,38 @@
+
+.main-error {
+	text-align: center;
+    padding: 27px;
+    margin-right: 530px;
+    font-size: 13px;
+    color: red;
+    font-style: initial;
+    font-family: inherit;
+}
+
+.main-success {
+	text-align: center;
+    padding: 15px;
+    margin-right: 695px;
+    font-size: 18px;
+    color: green;
+    font-style: italic;
+    font-family: inherit;
+}
+.error {
+	color: red;
+    font-size: 13px;
+    font-family: inherit;
+}
+#fileerror b{	
+	color: green !important;	
+}
+
+#fileerror{	
+	color: red;	
+}
+
+#namecoloum-error,#employeecoloum-error,#departmentcoloum-error,#dobcoloum-error,#joindatecoloum-error{
+    font-size: 13px;
+    color: red;
+	font-family: inherit;
+}
